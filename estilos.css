@@ -8,7 +8,8 @@ body{
 .contenedor{
    width: 50%;
    margin-left: 300px;
-  
+   background: #fff;
+   text-align: justify;
 }
 
 .titulo{
