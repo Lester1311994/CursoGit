@@ -8,5 +8,13 @@ body{
 .contenedor{
    width: 50%;
    margin-left: 300px;
-  
+   background: #fff;
+   text-align: justify;
+}
+
+.titulo{
+    text-align: center;
+    background:red;
+    padding:20px;
+    color:#fff;
 }
