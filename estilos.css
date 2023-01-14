@@ -10,3 +10,10 @@ body{
    margin-left: 300px;
   
 }
+
+.titulo{
+    text-align: center;
+    background:red;
+    padding:20px;
+    color:#fff;
+}
